@@ -2,3 +2,6 @@ bananas
 manzana
 galletitas 
 pan
+te
+yerba
+carne
